@@ -35,7 +35,7 @@ PraktikumPraUts-HerlanAlanSuherman/
 │   ├── Hewan.java
 │   ├── HewanPolimor.java
 │   └── README.md
-└── SudyCase/                          # Study Case
+Study Case
     ├── Mahasiswa.java
     ├── MahasiswaBeraksi.java
     └── README.md
