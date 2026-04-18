@@ -1,8 +1,8 @@
-# PraktikumPraUts-HerlanAlanSuherman
+# 💫PraktikumPraUts-HerlanAlanSuherman
 
 Repositori ini berisi kumpulan praktikum Pemrograman Berorientasi Objek (OOP) menggunakan bahasa Java. Setiap folder mewakili konsep dasar OOP yang dipelajari, dengan contoh kode dan penjelasan.
 
-## Struktur Repositori
+## 🧮Struktur Repositori
 
 ```
 PraktikumPraUts-HerlanAlanSuherman/
@@ -41,7 +41,7 @@ PraktikumPraUts-HerlanAlanSuherman/
     └── README.md
 ```
 
-## Penjelasan Folder
+## 🔢Penjelasan Folder
 
 ### kelas_objek_01
 Folder ini berisi contoh dasar penggunaan kelas dan objek dalam bahasa pemrograman Java. Konsep ini merupakan fondasi dari pemrograman berorientasi objek (OOP).
@@ -67,7 +67,7 @@ Folder ini menjelaskan polimorfisme dalam Java, di mana objek dari subclass dapa
 ### SudyCase
 Folder ini berisi contoh penerapan konsep OOP dalam skenario nyata, yaitu mengelola data mahasiswa.
 
-## Cara Menjalankan
+## 💻Cara Menjalankan
 Setiap folder memiliki file README.md sendiri dengan instruksi detail cara menjalankan program di dalamnya. Secara umum:
 1. Masuk ke direktori folder yang diinginkan.
 2. Compile dengan: `javac -d . *.java`
