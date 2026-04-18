@@ -14,7 +14,7 @@ Folder ini menjelaskan polimorfisme dalam Java, di mana objek dari subclass dapa
    ```
 3. Jalankan program:
    ```
-   java -cp . Polimorfisme_o7.HewanPolimor
+   java -cp . Polimorfisme_07.HewanPolimor
    ```
 
 Output yang diharapkan:

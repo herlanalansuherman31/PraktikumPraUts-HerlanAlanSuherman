@@ -1,4 +1,4 @@
-package Polimorfisme_o7;
+package Polimorfisme_07;
 class Hewan {
     void suara() {
         System.out.println("suara hewan");

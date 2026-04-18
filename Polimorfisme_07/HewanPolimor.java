@@ -1,4 +1,4 @@
-package Polimorfisme_o7;
+package Polimorfisme_07;
 
 public class HewanPolimor {
     public static void main(String[] args) {
